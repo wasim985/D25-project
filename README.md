@@ -46,8 +46,7 @@ Use k-means and elbow method to optimally cluster communities along social dimen
 
 ## Sentiment Analysis (tentative):
 For the sentiment analysis, for now I'm planning to use Vader sentiment analysis which categorizes text into 3 major categories : neutral, positive, and negative.
-NTLK also gives us tools to remove punctuation, stopwords, lowercase all text, sentence compression, etc.
-This can help us preprocess text to speed up sentiment analysis.
+And compound for the overall sentiment.
 
 ## Visualization:
 Utilize line graphs and box plots (like original paper) to show how community GS-scores vary with elite posters GS-scores.
