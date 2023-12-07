@@ -9,11 +9,16 @@ However, with numerous communities in social media, how does community-wise spec
 ## Link to Data Story on this project
 [Click here for Data Story](https://bit.ly/4853pUM)
 
+## Code of analysis
+
+Stored in analysis\analysis.ipynb \
+must download text_comments.csv and text_submissions.csv seperately.
+
 ## Research Questions:
 
-How does specialization correspond to key metrics in post creation?
-Are the top creators in a certain community more or less specialized?
-Specialists tend to be more enthusiasic? Does this hold up online?
+How does specialization correspond to key metrics in post creation? \
+Are the top creators in a certain community more or less specialized? \
+Specialists tend to be more enthusiasic? Does this hold up online? \
 Are more specialized communities subject to certain social conditions? 
 
 
