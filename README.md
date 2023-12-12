@@ -52,7 +52,7 @@ Social-dimensions:
 https://github.com/CSSLab/social-dimensions, we use their research on word embeddings and social dimensions.
 A social dimension is based on similar subreddit differences upon whose unit vector other embedding vectors are projected upon to get the "social-dimension" value.
 
-## Sentiment Analysis (tentative):
+## Sentiment Analysis:
 For the sentiment analysis, for now I'm planning to use Vader sentiment analysis which categorizes text into 3 major categories : neutral, positive, and negative.
 And compound for the overall sentiment.
 
