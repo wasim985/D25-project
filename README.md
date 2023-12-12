@@ -7,7 +7,8 @@ Original paper: "Generalists and Specialists: Using Community Embeddings to Quan
 The backbone of social media websites is creation / posting of information. A post allows others to comment / engage within a community, both quality and quantity of posts determine a platform's success.
 However, with numerous communities in social media, how does community-wise specialization influence success and type of content being posted. The goal of this paper is to utilize community embeddings to judge how specialization affects posts / creations on a platform. In particular we will be looking into Reddit, which is driven by post submissions and is seperated into distinct communities. The methods to categorize success of posts, and finding user specialization can be generalized to more complicated platforms. This project builds on top of the idea of GS-scores to categorize creators' specialization and sentiment analysis to quantify enthusiasm.
 ## Link to Data Story on this project
-[Click here for Data Story](https://bit.ly/4853pUM)
+[Click here for Data Story](https://bit.ly/4853pUM) \
+Also stored as a pdf in repo
 
 ## Code of analysis
 
