@@ -2,3 +2,6 @@
 analysis/text_comments.csv
 analysis/text_submissions.csv
 analysis/text.ipynb
+analysis/gs_scores_of_users.csv
+analysis/post_comment_sentiments.csv
+analysis/post_title_sentiments.csv
